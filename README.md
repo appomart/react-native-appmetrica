@@ -1,4 +1,4 @@
-# react-native-appmetrica
+# @appomart/react-native-appmetrica
 React Native bridge to the [AppMetrica](https://appmetrica.yandex.com/) on both iOS and Android.
 
 ## About package
