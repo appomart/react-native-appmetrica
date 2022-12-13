@@ -10,7 +10,7 @@ This is a temporary solution. This repository includes pull requests from the [m
 ## Installation
 
  ```shell
-  yarn add rn-yandex-appmetrica
+  yarn add @appomart/react-native-appmetrica
  ```
 ## Integration into a pure React Native project
 
