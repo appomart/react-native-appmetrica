@@ -28,7 +28,7 @@ This is a temporary solution. This repository includes pull requests from the [m
  1. Install `expo-dev-client`:
 
  ```shell
- expo install expo-dev-client
+ npx expo install expo-dev-client
  ```
 
  2. Add `@appomart/react-native-appmetrica` into the `plugins` array inside the `app.json` file of your app:
